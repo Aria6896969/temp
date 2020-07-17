@@ -10,9 +10,10 @@ img[200:400,200:400]=dst
 
 # img1=cv2.imread('test.jpg')
 # print(img1)
-cv2.imshow('aasa',img)
+cv2.imshow('ark',img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 # plt.imshow(img, cmap = 'gray', interpolation = 'bicubic')
 # plt.xticks([]), plt.yticks([]) # to hide tick values on X and Y axis
 # plt.show()
+  
